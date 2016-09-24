@@ -1,0 +1,17 @@
+{
+  "name": "lab_03",
+  "version": "1.0.0",
+  "description": "Lab 3 - Simple Calculator",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Megan Doyle - 200310365",
+  "license": "ISC"
+}
